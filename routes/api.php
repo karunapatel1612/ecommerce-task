@@ -13,3 +13,5 @@ Route::get('/destroy/{id}', [ProductController::class, 'destroy']);
 
 
 
+
+
